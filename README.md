@@ -23,6 +23,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Awwwards](https://www.awwwards.com/)                               | A place where the best websites in the world are evaluated and collected.                         |
 | [SaaSpo](https://saaspo.com/)                                       | Page or section SaaS web design inspirations.                                                     |
 | [Bento Grid](https://bentogrids.com/)                               | Curated collection of bento designs for your inspiration.                                         |
+| [Growth Design](https://growth.design/case-studies)                 | Product Psychology Case Studies from Big Tech, Showcased with Comics.                             |
 
 ## Catalog of Ready-Made Components
 
