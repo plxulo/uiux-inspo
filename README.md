@@ -26,6 +26,7 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [Growth Design](https://growth.design/case-studies)                 | Product Psychology Case Studies from Big Tech, Showcased with Comics.                             |
 | [MDX](https://mdx.so/projects)                                      | 3D Web Design Inspiration Catalogue                                                               |
 | [Codrops](https://tympanus.net/codrops/webzibition/)                | Freshly hand-picked websites for your inspiration.                                                |
+| [Footer](https://www.footer.design/)                                | Footer section design gallery for inspo.                                                          |
 
 
 ## Catalog of Ready-Made Components
