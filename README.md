@@ -27,6 +27,10 @@ Check out my [YouTube video](https://youtu.be/nmrzwQNWyZc) where I showcase the 
 | [MDX](https://mdx.so/projects)                                      | 3D Web Design Inspiration Catalogue                                                               |
 | [Codrops](https://tympanus.net/codrops/webzibition/)                | Freshly hand-picked websites for your inspiration.                                                |
 | [Footer](https://www.footer.design/)                                | Footer section design gallery for inspo.                                                          |
+| [Land Book](https://land-book.com/)                                 | Landing pages collection.                                                                         |
+| [SaaS Landing Page](https://saaslandingpage.com/)                   | 890 landing page examples created by top-class SaaS companies.                                    |
+| [Dribbble](https://dribbble.com/)                                   | Lots of work from lots of different designers.                                                    |
+
 
 
 ## Catalog of Ready-Made Components
